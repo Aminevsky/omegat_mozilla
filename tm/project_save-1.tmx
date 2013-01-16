@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mozilla Japan's cartoon character, &quot;Foxkeh&quot; and more Firefox development in the Asia/Pacific region</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mozilla Japan のマンガキャラクター &quot;フォクすけ&quot; とアジア／太平洋地域での更なる Firefox 開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of Mozilla's key developers are working in a small development office in New Zealand.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>一部の Mozilla の重要な開発者はニュージランドの小さな開発オフィスで仕事している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They're the people responsible for building key functionality in Firefox 3.0.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>彼らは Firefox 3.0 の重要な機能を構築するために責任を負っている人々だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plus, Mozilla Japan has come up with an even cuter Fox than the Firefox... its cartoon character is called Foxkeh.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>更に、Mozilla Japan は Firefox よりもさらにかわいいキツネを考え出している... そのマンガキャラクターはフォクすけと呼ばれている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dan Warne (APC): Since you're here in Australia - in the Asia/Pacific region -- are you doing any APAC initiatives or do you have any links with organisations here that are interesting?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Dan Warne (APC): あなたが - アジア／太平洋地域である - オーストラリアにいるので -- あなたは何か APAC イニシアチブをしていますか、また興味を持っているここの組織とリンクを持っていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: We have for many years had an active community in Japan and it is a community based group with a very small organisation, Mozilla Japan, which is non profit.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: 私たちは何年も日本の活動的なコミュニティと関係を持っています、そしてそれは非利益の Mozilla Japan という大変、小さな組織と共にグループをベースとしたコミュニティです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once we had revenue about a year ago we started to fund an investment in Mozilla Japan so that's probably six or seven or eight people with some developers, some outreach and doing very interesting things.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>6 人または 7 人または 8 人の人々が開発者たちと共に支援活動や、とても面白いことができるように私たちが Mozilla Japan の出資に投資し始めたのは約1年前の資金でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So in fact I will just show you this.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>実際に私はちょうど今、これをあなたに見せましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This little creature here is Foxkeh which is a creature that the folks in developed to make Firefox accessible and for viewing in the market there.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>この小さなキャラクターは先進国の人々に Firefox を親しみやすくし、そこの市場を眺める動物であるフォクすけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kawaii: Oh so cute...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>かわいい：何てかわいいんだ...</seg>
+      </tuv>
+    </tu>
+    
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mozilla Japan's firefoxy cartoon character Foxkeh</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mozilla Japan の Firefox 的なマンガキャラクター フォクすけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are doing some pretty excellent work on extensions and also developing documentation in Japanese and so on.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>拡張機能さらには日本の開発ドキュメントなどで彼らはたくさんの大変、優秀な仕事をしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have also had for a couple of years now a very, very low key small effort in China which we are a small good project hosted by the Chinese Academy of Sciences and in the last few months we've decided that we should be a little more engaged in China.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>私たちは更に、ここ 2 年の間、中国で科学アカデミーによってホストされている小さな良いプロジェクトなどのように、非常に重要性の低い小さな努力をしています、そして、ここ数ヶ月、中国でより忙しくなるべきだと私たちは決めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We've hired someone to help us.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>私たちを助けてくれる人を雇っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was there a few months ago and there is a set of people in China, maybe the best we can tell like a million users so not a lot of users for China.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>私は数ヶ月前そこにいた、そして中国にはひとそろいの人々がいた、多分、たくさんのユーザにではなく 100 万人のユーザに教える方が最も良いだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But an interested and excited user base and the bloggers and so on and some of them are very interested.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しかし関心があり興奮しているユーザベース、ブロガーなど彼らの一部はとても関心を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So our thinking is: well let's go and find out who is there and who is already interested.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>なので私たちはこう考えています：えっと、そこの人と既に興味を持っている人を調べに行こうと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let's go and see if we did more, whether more people would be interested and if this vision of the Internet that we are working so hard on resonates there.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>私たちがもっとした場合、より多くの人々が興味を持っているかどうか、私たちが一生懸命、活動しているインターネットのこのヴィジョンがそこで共鳴しているかどうか、見に行こうと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it does and there's a community of people then let's see if we can be helpful.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>そうして人々のコミュニティがその時にあったら、手助けできるかどうか見ようと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We expect that to be a pretty significant exploration in the next year.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>私たちは来年、それが大変、重要な調査になることを期待しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dan Warne (APC): Any other contributors here in Australia or nearby?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Dan Warne (APC): 他にオーストラリアまたは近辺に貢献者はいませんか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: There are a few yes.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: はい、数人います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have for many years had a wonderful contributor, Robert O'Callaghan , who is a New Zealand native and he's been living in the United States - or he was living in the United States - for a number of years and desperately wanted to go back.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>私たちは何年もの間、ニュージランド生まれの Robert O'Callaghan という素晴らしい貢献者を持っています。彼はアメリカで何年にもわたって、ずっと生活したことがあり - または彼はアメリカで生活していた - そして必死に帰りたがっていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So he is back in New Zealand now and he works for us and we've started a small office in New Zealand.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>なので今、彼はニュージランドに戻って、私たちのために仕事をし、私たちはニュージランドに小さなオフィスを始めました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dan Warne (APC): Really?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Dan Warne (APC): 本当？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: Yeah because it turns out when you have one really great contributor who is also a good teacher and willing to mentor and can attract a few other smart people around him that's worth a lot to us, that's everything.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: はい、良い先生で、かつ快い助言者である１人の本当に素晴らしい貢献者を持っていて、そして数人の賢い彼の周りの人々を引きつけることを、あなたが出来たとき、それは進展するからです。それは私たちにとって大変、価値有ることです、それはかけがえのないことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact the offline apps demo that was done this morning that showed a demo of Zimbra running offline, without an internet connection, that work was done out of the New Zealand office.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>事実、今朝、インターネット接続することなく、Zimbra のデモを実行するのを見せるというオフラインアプリケーションデモが行われました。そしてその動作はニュージランドのオフィスから行われました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robert O&amp;#39;Callaghan: back where he belongs, developing for Mozilla from New ZealandRobert O'Callaghan: back where he belongs, developing for Mozilla from New Zealand</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Robert O'Callaghan: 彼が所属する場所へ戻り、ニュージランドから Mozilla のために開発している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dan Warne (APC): Wow!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Dan Warne (APC): うわあ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you doing any work in Australia as well?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>あなた方はオーストラリアでどんな活動をしていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: Not currently.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: 現在の所、していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, one of our longest contributors to the Mozilla project is a lecturer here in Australia at University of Queensland and he's been involved in the project since 2000 I think.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しかしながら、Mozilla プロジェクトに対する私たちの最も長い貢献者は、ここオーストラリアのクイーンズランド大学の講師で、彼は 2000 年からそのプロジェクトに参加していると思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He's a mathematician or at least a scholar in an area in which mathematic equations are important.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>彼は数学の方程式が重要な数学者または少なくとも学者です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So way, way back when he decided - there's a language called MathML - and he decided that Firefox Mozilla in those days ought to have it.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>彼が決心したのはずっとずっと昔でした - MathML と呼ばれる言語があります - そして当時の Mozilla Firefox はそれを持つべきだと彼は決心しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And he has been contributing ever since and is single handedly responsible for the ability to really persuade confidence in this area.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>それ以来、彼はずっと貢献しており、この地域での信用を納得させる能力のために単独で責任を負っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dan Warne (APC): Right...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Dan Warne (APC): 正しい･･･</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have always been curious about why on earth it is that Mozilla has such comprehensive support for mathematical equations?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>一体、なぜ地球上で Mozilla が数学の方程式のために、そのような広範囲なサポートをするのかについて私はいつも不思議なのですが？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: It's all due to Roger Sidje from UQ.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: それは全てクイーンズランド大学の Roger Sidje のためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was a long hard battle for him in the early days.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>彼にとって初期の日々は長く辛い戦いでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: Well we're talking 2000 so actually getting that complex and different rendering elements into the core rendering engine is hard.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: えぇ私たちはコアレンダリングエンジンの中に、入り組み異なったレンダリング要素を実際に入れるように 2000 回会話しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dan Warne (APC): It's almost like writing a whole different HTML renderer, I can imagine, because mathematical equations can be formatted in very complicated ways.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Dan Warne (APC): それは、ほとんど全く HTML レンダリングと異なった書き方のようですね、私は想像できます、数学の方程式はとても複雑な方法で整えられることができるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: Right and he's been active so long now.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: 正しい、そして彼は今、非常に長い間、ずっと活動しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since we started getting revenue, we've been hosting a Firefox summit of key contributors and non employees from around the world, so Roger has come to visit us a couple of times because he has been such a great contributor for us.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>収入を得始めて以来、私たちは重要な貢献者と世界中の非雇用者の Firefox サミットをホストしている、そのため Roger は私たちを 2 回訪ねてきたことがある、彼は私たちにとってそんなに素晴らしい貢献者であるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: We have for many years had an active community in Japan and it is a community based group with a very small organisation, Mozilla Japan, which is non profit.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: 私たちは何年も日本の活動的なコミュニティと関係を持っています、そしてそれは非利益の Mozilla Japan という大変、小さな組織と共にグループをベースとしたコミュニティです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitchell Baker: We have for many years had an active community in Japan and it is a community based group with a very small organisation, Mozilla Japan, which is non profit.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mitchell Baker: 私たちは何年も日本の活動的なコミュニティと関係を持っています、そしてそれは非利益の Mozilla Japan という大変、小さな組織と共にグループをベースとしたコミュニティです。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
